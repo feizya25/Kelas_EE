@@ -1,0 +1,2 @@
+print("feizy")
+print("mahasiswa")
